@@ -14,7 +14,7 @@
 
 -Kulanıcı login olur. "https://www.bitexen.com/advanced" sayfasında sayfanın sağ alt tarafında "Emirler" alanında "Alarm Ekle" butonuna tıklar. Açılan pop-up da bar aslında -40% tarafından 0% ' a gelmiş gibi bir izlenim yaratıyor. Ve sağ tarafa kaydırdıkça 0%'den değil -40%'den geliyor gibi davranış gösteriyor. Bu durumun 0% alanında sağ ve sol tarafların boş göründüğü ve sağ-sol yönlü hareketlerde 0%'den istenilen yüzdelik kısma hareket ettiğinin görülmesi gerekir.
 
--Search alanlarında trim yok kullanıcı space'e bastı ve coin arattığında o kriptoyu listede görememektedir. Trim işlemi search inputlarında uygulanabilir.
+-Search alanlarında trim yok kullanıcı space'e tıkladıktan sonra coin arattığında o kriptoyu listede görememektedir. Trim işlemi search inputlarında uygulanabilir.
 
 ### Bonus
 
