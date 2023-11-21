@@ -1,4 +1,4 @@
-### Bitexen Code Challenge
+#Bitexen Code Challenge
 
 ### How to run test cases?
 
