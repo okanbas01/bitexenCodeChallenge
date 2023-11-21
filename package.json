@@ -1,0 +1,24 @@
+{
+  "name": "bitexencodechallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "npx cypress open",
+    "cy.tests": "npx cypress run",
+    "api:test": "mocha 'testCases/api/test'",
+    "test": "npx cypress run --spec **/*.feature"  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okanbas01/bitexenCodeChallenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okanbas01/bitexenCodeChallenge/issues"
+  },
+  "homepage": "https://github.com/okanbas01/bitexenCodeChallenge#readme",
+  "devDependencies": {
+    "cypress": "^13.5.1"
+  }
+}
