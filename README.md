@@ -4,7 +4,7 @@
 
 - Firstly You Must Run : `npm init` and `npm install cypress --save-dev` ,
 - Cypress Feature : `npx cypress open ` or `npx cypress run`
-- API Project : `yarn run api:test`
+- API Project : `npx cypress open ` or `yarn run api:test`
 
 ### Test Case Link
 
